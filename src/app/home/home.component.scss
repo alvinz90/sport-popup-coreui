@@ -1,0 +1,15 @@
+.table-row {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    cursor: pointer;
+  }
+
+.center_button {
+    text-align:center;
+}
+
+.accenture-logo {
+    background-image: url('../img/accenture-logo.png');
+    background-size: cover;
+}
