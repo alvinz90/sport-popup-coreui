@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The Sport Popup Demo is a mini app (Angular 5 / CoreUI) within a popup (Dialog) implementing the service - consumer data flow; it would call the Reddit service, retrieve sports news data, and render it as a item list for selecting; after the user selecting the sport news item, the page focus would come back to the home page with the selected sport news data, and render the page with the data details. 
 
-* Reference links
-** [Angular] (https://angular.io/)
-** [CoreUI] (https://coreui.io/)
+## Reference links
+* [Angular] (https://angular.io/)
+* [CoreUI] (https://coreui.io/)
 
 * [Live Demo](https://sport-popup-coreui.firebaseapp.com/) - It's been deploy to Google Firebase website: https://sport-popup-coreui.firebaseapp.com/
 
