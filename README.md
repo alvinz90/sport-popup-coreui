@@ -11,14 +11,14 @@ The Sport Popup Demo is a mini app (Angular 5 / CoreUI) within a popup (Dialog) 
 * [Live Demo](https://sport-popup-coreui.firebaseapp.com/) - It's been deploy to Google Firebase website: https://sport-popup-coreui.firebaseapp.com/
 
 ### Desktop screenshots
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screen_shots/sport-popup-coreui-screenshot-desktop001.png' width='30%'></img> 
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screen_shots/sport-popup-coreui-screenshot-desktop002.png' width='30%'></img> 
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screen_shots/sport-popup-coreui-screenshot-desktop003.png' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-desktop001.png' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-desktop002.png' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-desktop003.png' width='30%'></img> 
 
 ### iPhone screenshots
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screen_shots/sport-popup-coreui-screenshot-iphone001.PNG' width='30%'></img> 
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screen_shots/sport-popup-coreui-screenshot-iphone002.PNG' width='30%'></img> 
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screen_shots/sport-popup-coreui-screenshot-iphone003.PNG' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone001.PNG' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone002.PNG' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone003.PNG' width='30%'></img> 
 
 ## Development server
 
