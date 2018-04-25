@@ -17,8 +17,8 @@ The Sport Popup Demo is a mini app (Angular 5 / CoreUI) within a popup (Dialog) 
 
 ### iPhone screenshots
 <img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone001.PNG' width='30%'></img> 
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone002.PNG' width='30%'></img> 
-<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone003.PNG' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone002.jpg' width='30%'></img> 
+<img src='https://raw.githubusercontent.com/alvinz90/sport-popup-coreui/master/screenshots/sport-popup-coreui-screenshot-iphone003.jpg' width='30%'></img> 
 
 ## Development server
 
