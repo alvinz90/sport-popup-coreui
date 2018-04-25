@@ -10,6 +10,8 @@ The Sport Popup Demo is a mini app (Angular 5 / CoreUI) within a popup (Dialog) 
 
 * [CoreUI](https://coreui.io/) - CoreUI Official site
 
+* [Firebase Console](https://console.firebase.google.com/) - Google Firebase Console
+
 * [Live Demo](https://sport-popup-coreui.firebaseapp.com/) - It's been deploy to Google Firebase website: https://sport-popup-coreui.firebaseapp.com/
 
 ### Desktop screenshots
