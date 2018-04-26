@@ -199,10 +199,13 @@ firebase login
 cd sport-popup-coreui
 firebase init
 ```
-** 4.1)Select 'Hosting'
-** 4.2)Select the firebase project just created above
-** 4.3)input 'dist' as your public directory (this is the Angular build directory)
-** 4.4)set it as Single page app
+Make these selections following the prompts:
+```
+4.1)Select 'Hosting'
+4.2)Select the firebase project just created above
+4.3)input 'dist' as your public directory (this is the Angular build directory)
+4.4)set it as Single page app
+```
 
 * 5) build the Angular app
 ```
